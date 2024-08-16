@@ -33,7 +33,7 @@ This project is a simple calculator that can perform basic arithmetic operations
 
 ## Project view
 
-![Landing page](image.png)
+![Landing page](./public/image.png)
 
 
 
